@@ -1,0 +1,7 @@
+__pycache__
+.idea
+
+models/*
+
+!models/half-cheetah-ddpg.dict
+!models/pendulum-ddpg.dict
