@@ -1,7 +1,7 @@
 r"""
-HalfCheetah-v3-DDPG
+FetchReach-v1-DDPG+HER
 -----------------
-Example script for training a 2D cheetah to run using the DDPG algorithm
+Example script for training a robotic arm to reach to an assigned location using DDPG+HER
 """
 
 import copy
